@@ -1,3 +1,4 @@
+![imagen](https://github.com/WeltonGabriel/WeltonGabriel/blob/main/5cf63035b14a1ce4a3701ba76afcbd9c.jpg)
 # 💫 About Me:
 Olá eu me chamo Welton Gabriel 😀<br>Eu não estou trabalhando(ainda) mas pretendo 😁<br>Eu pretendo fazer um projeto que ajude a galera desenvolver mapas para que seja mais fácil fazer jogos pelo celular 🙃<br>Eu estou estudando programação com python e lua 🌙<br>Um pequeno fato: a linguagem que eu vou seguir vai ser c++ 😅
 
